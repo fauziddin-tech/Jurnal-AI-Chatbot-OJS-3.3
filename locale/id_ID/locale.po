@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+
+msgid "plugins.generic.jurnalChatbot.displayName"
+msgstr "Jurnal AI Chatbot"
+
+msgid "plugins.generic.jurnalChatbot.description"
+msgstr "Chatbot AI universal untuk jurnal OJS. Konfigurasi semua data jurnal dari panel admin — tanpa coding."
+
+msgid "plugins.generic.jurnalChatbot.settings.journalName"
+msgstr "Nama Jurnal"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalEmail"
+msgstr "Email Redaksi"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalUrl"
+msgstr "URL Jurnal"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalIssn"
+msgstr "ISSN Online"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalPublisher"
+msgstr "Penerbit"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalAccreditation"
+msgstr "Akreditasi"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalIndex"
+msgstr "Indeksasi"
+
+msgid "plugins.generic.jurnalChatbot.settings.pubFrequency"
+msgstr "Frekuensi Terbit"
+
+msgid "plugins.generic.jurnalChatbot.settings.apcRegular"
+msgstr "APC Reguler"
+
+msgid "plugins.generic.jurnalChatbot.settings.apcPriority"
+msgstr "APC Prioritas"
+
+msgid "plugins.generic.jurnalChatbot.settings.apcPolicy"
+msgstr "Kebijakan APC"
+
+msgid "plugins.generic.jurnalChatbot.settings.subFormat"
+msgstr "Format Naskah"
+
+msgid "plugins.generic.jurnalChatbot.settings.subTemplate"
+msgstr "URL Download Template"
+
+msgid "plugins.generic.jurnalChatbot.settings.subPlagiarism"
+msgstr "Batas Plagiarisme"
+
+msgid "plugins.generic.jurnalChatbot.settings.subCitation"
+msgstr "Gaya Sitasi"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalScope"
+msgstr "Scope Jurnal"
+
+msgid "plugins.generic.jurnalChatbot.settings.linkSubmit"
+msgstr "URL Submit"
+
+msgid "plugins.generic.jurnalChatbot.settings.linkRegister"
+msgstr "URL Daftar"
+
+msgid "plugins.generic.jurnalChatbot.settings.linkGuidelines"
+msgstr "URL Panduan Penulis"
+
+msgid "plugins.generic.jurnalChatbot.settings.chatbotName"
+msgstr "Nama Chatbot"
+
+msgid "plugins.generic.jurnalChatbot.settings.themeColor"
+msgstr "Warna Tema (hex)"
+
+msgid "plugins.generic.jurnalChatbot.settings.themeMode"
+msgstr "Penyesuaian Tema"
+
+msgid "plugins.generic.jurnalChatbot.settings.themeMode.description"
+msgstr "Pilih otomatis agar warna chatbot mengikuti warna utama tema OJS yang aktif. Pilih manual untuk memakai kode warna sendiri."
+
+msgid "plugins.generic.jurnalChatbot.settings.themeMode.auto"
+msgstr "Otomatis mengikuti tema OJS"
+
+msgid "plugins.generic.jurnalChatbot.settings.themeMode.manual"
+msgstr "Warna manual"
+
+msgid "plugins.generic.jurnalChatbot.settings.apiKeySaved"
+msgstr "API key untuk penyedia ini sudah tersimpan"
+
+msgid "plugins.generic.jurnalChatbot.settings.aiProvider"
+msgstr "Penyedia AI"
+
+msgid "plugins.generic.jurnalChatbot.settings.aiProvider.description"
+msgstr "Pilih layanan AI yang akan digunakan oleh chatbot jurnal."
+
+msgid "plugins.generic.jurnalChatbot.settings.providerApiKey"
+msgstr "API Key Penyedia"
+
+msgid "plugins.generic.jurnalChatbot.settings.providerApiKey.description"
+msgstr "Masukkan API key untuk penyedia yang dipilih. Kunci digunakan di server OJS dan tidak dikirim ke browser. Setiap penyedia menyimpan kuncinya sendiri. Biarkan kosong untuk mempertahankan kunci yang sudah tersimpan."
+
+msgid "plugins.generic.jurnalChatbot.settings.aiModel"
+msgstr "Model AI"
+
+msgid "plugins.generic.jurnalChatbot.settings.aiModel.description"
+msgstr "Model bawaan terisi otomatis saat penyedia diganti. Anda dapat mengubahnya jika akun API menyediakan model lain."
+
+msgid "plugins.generic.jurnalChatbot.settings.extraInfo"
+msgstr "Informasi Tambahan"
