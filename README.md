@@ -3,6 +3,13 @@
 Plugin chatbot AI mandiri untuk OJS 3.3.x. Seluruh konfigurasi dilakukan dari
 dashboard OJS; tidak perlu mengunggah file proxy dengan cPanel atau FTP.
 
+## Contoh implementasi
+
+Plugin ini telah digunakan pada
+[Educative: Jurnal Ilmiah Pendidikan](https://publikasi.abidan.org/index.php/educative).
+Tampilan chatbot dapat berbeda karena mengikuti tema dan konfigurasi
+masing-masing jurnal.
+
 ## Unduh
 
 [Unduh jurnalChatbot-1.3.0.tar.gz](./jurnalChatbot-1.3.0.tar.gz)
