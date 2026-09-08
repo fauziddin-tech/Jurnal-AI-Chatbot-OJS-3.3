@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+
+msgid "plugins.generic.jurnalChatbot.displayName"
+msgstr "Jurnal AI Chatbot"
+
+msgid "plugins.generic.jurnalChatbot.description"
+msgstr "Universal AI chatbot for OJS journals. Configure all journal data from the admin settings — no coding required."
+
+msgid "plugins.generic.jurnalChatbot.settings.journalName"
+msgstr "Journal Name"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalEmail"
+msgstr "Editorial Email"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalUrl"
+msgstr "Journal URL"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalIssn"
+msgstr "ISSN Online"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalPublisher"
+msgstr "Publisher"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalAccreditation"
+msgstr "Accreditation"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalIndex"
+msgstr "Indexing"
+
+msgid "plugins.generic.jurnalChatbot.settings.pubFrequency"
+msgstr "Publication Frequency"
+
+msgid "plugins.generic.jurnalChatbot.settings.apcRegular"
+msgstr "Regular APC"
+
+msgid "plugins.generic.jurnalChatbot.settings.apcPriority"
+msgstr "Priority APC"
+
+msgid "plugins.generic.jurnalChatbot.settings.apcPolicy"
+msgstr "APC Policy Notes"
+
+msgid "plugins.generic.jurnalChatbot.settings.subFormat"
+msgstr "Manuscript Format"
+
+msgid "plugins.generic.jurnalChatbot.settings.subTemplate"
+msgstr "Template Download URL"
+
+msgid "plugins.generic.jurnalChatbot.settings.subPlagiarism"
+msgstr "Plagiarism Limit"
+
+msgid "plugins.generic.jurnalChatbot.settings.subCitation"
+msgstr "Citation Style"
+
+msgid "plugins.generic.jurnalChatbot.settings.journalScope"
+msgstr "Journal Scope"
+
+msgid "plugins.generic.jurnalChatbot.settings.linkSubmit"
+msgstr "Submit URL"
+
+msgid "plugins.generic.jurnalChatbot.settings.linkRegister"
+msgstr "Register URL"
+
+msgid "plugins.generic.jurnalChatbot.settings.linkGuidelines"
+msgstr "Author Guidelines URL"
+
+msgid "plugins.generic.jurnalChatbot.settings.chatbotName"
+msgstr "Chatbot Name"
+
+msgid "plugins.generic.jurnalChatbot.settings.themeColor"
+msgstr "Theme Color (hex)"
+
+msgid "plugins.generic.jurnalChatbot.settings.themeMode"
+msgstr "Theme Matching"
+
+msgid "plugins.generic.jurnalChatbot.settings.themeMode.description"
+msgstr "Choose automatic to match the chatbot to the active OJS theme color, or manual to use a custom color."
+
+msgid "plugins.generic.jurnalChatbot.settings.themeMode.auto"
+msgstr "Automatically follow OJS theme"
+
+msgid "plugins.generic.jurnalChatbot.settings.themeMode.manual"
+msgstr "Manual color"
+
+msgid "plugins.generic.jurnalChatbot.settings.apiKeySaved"
+msgstr "An API key is saved for this provider"
+
+msgid "plugins.generic.jurnalChatbot.settings.aiProvider"
+msgstr "AI Provider"
+
+msgid "plugins.generic.jurnalChatbot.settings.aiProvider.description"
+msgstr "Select the AI service used by the journal chatbot."
+
+msgid "plugins.generic.jurnalChatbot.settings.providerApiKey"
+msgstr "Provider API Key"
+
+msgid "plugins.generic.jurnalChatbot.settings.providerApiKey.description"
+msgstr "Enter the API key for the selected provider. The key is used on the OJS server and is never sent to the browser. Each provider keeps its own key. Leave blank to retain the saved key."
+
+msgid "plugins.generic.jurnalChatbot.settings.aiModel"
+msgstr "AI Model"
+
+msgid "plugins.generic.jurnalChatbot.settings.aiModel.description"
+msgstr "The default model is filled automatically when the provider changes. You can edit it if your API account offers another model."
+
+msgid "plugins.generic.jurnalChatbot.settings.extraInfo"
+msgstr "Additional Information"
