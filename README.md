@@ -3,6 +3,13 @@
 Plugin chatbot AI mandiri untuk OJS 3.3.x. Seluruh konfigurasi dilakukan dari
 dashboard OJS; tidak perlu mengunggah file proxy dengan cPanel atau FTP.
 
+## Unduh
+
+[Unduh jurnalChatbot-1.3.0.tar.gz](./jurnalChatbot-1.3.0.tar.gz)
+
+SHA-256:
+`27a8d58737f657562aaaf048964639462af4db97fe5d86dd2703e3aa7ec6202d`
+
 ## Instalasi atau upgrade
 
 1. Masuk sebagai administrator atau journal manager.
